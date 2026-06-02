@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Flutter
+proyectoflutter01/build/
+proyectoflutter01/.dart_tool/
+proyectoflutter01/.flutter-plugins
+proyectoflutter01/.flutter-plugins-dependencies
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+*.log
+
+# Uploads generados
+MODELO PREDICTIVO/static/uploads/*
+
+# Mantener la carpeta en Git
+!MODELO PREDICTIVO/static/uploads/.gitkeep
